@@ -7,7 +7,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 
-public class salary_deductions {
+public class salary_seductions {
 
     private double salary;
     public double total;
